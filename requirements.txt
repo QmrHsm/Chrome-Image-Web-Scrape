@@ -1,0 +1,6 @@
+selenium==4.23.1
+pillow==10.4.0
+requests==2.32.3
+ImageHash==4.3.1
+beautifulsoup4==4.12.3
+urllib3==2.2.2
