@@ -17,7 +17,7 @@ This web scraping tool is designed to help me download food images from Google f
 
 ## Setup
 
-1. **Download ChromeDriver**: Download the ChromeDriver executable for your specific OS from [here](https://sites.google.com/a/chromium.org/chromedriver/downloads). Make sure it matches the version of your installed Google Chrome browser.
+1. **Download ChromeDriver**: Download the ChromeDriver executable for your specific OS from [here](https://googlechromelabs.github.io/chrome-for-testing/). Make sure it matches the version of your installed Google Chrome browser.
 
 2. **Install Dependencies**: Use the following command to install necessary Python libraries:
     ```bash
